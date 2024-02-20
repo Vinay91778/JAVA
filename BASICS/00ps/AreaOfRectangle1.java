@@ -1,0 +1,10 @@
+class AreaOfRectangle1 
+{
+	public static void main(String[] args) 
+	{
+		Rectangle1 s1 = new Rectangle1 (5,5);
+		Rectangle1 s2 = new Rectangle1 (6,9);
+		s1.areaOfRectangle1();
+		s2.areaOfRectangle1();
+	}
+}
